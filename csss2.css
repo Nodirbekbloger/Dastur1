@@ -1,0 +1,44 @@
+#skygarden{
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    width: 100px;
+    margin: 10px;
+
+}
+.bgimg{
+    background-image: url(images/oxigibg.jpg);
+    height: 450px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#name{
+    font-weight: 900;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 100%;
+    height: 450px;
+}
+.header__title {
+    width: 400px;
+    height: 200px;
+    font-weight: bold;
+    font-size: 56px;
+    
+}
+.header__button {
+   
+    padding: 25px 35px;
+    font-weight: 700;
+    font-weight: bold;
+   
+}
+.img_position{
+margin: 20px;
+}
+

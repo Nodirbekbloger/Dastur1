@@ -1,0 +1,28 @@
+  
+#bodybg{
+    background-image: url(./images/loginbgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .form-group{
+     font-weight: bold;
+ }
+ #email{
+     border-radius: 5px;
+ }
+ 
+ .login{
+     text-align: center;
+ }
+ .login input{
+    margin: 15px;
+ }
+ .logintext{
+    background-color: #D5DBDB;
+ }
